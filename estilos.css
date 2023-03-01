@@ -1,0 +1,94 @@
+.cajas {
+    width: 40%;
+    float: left;
+    padding: 5px;
+}
+
+.cajas2 {
+    width: 20%;
+    float: left;
+    padding: 5px;
+}
+
+.cuadro {
+    width: 40%;
+    height: 40px;
+    border: black;
+    margin: 20px;
+    margin-top: 20px;
+}
+
+h4 {
+    background-color: rgb(150, 144, 144);
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+h3 {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+label {
+    background-color: grey;
+    color: white;
+    padding: 2px;
+}
+
+.btn {
+    background-color: green;
+    padding: 3px;
+    border-radius: 2px;
+}
+
+.btnagregar {
+    background-color: orange;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+#taula {
+    height: 10px !important;
+    overflow: auto;
+    width: 22px;
+}
+
+.ui-menu-item {
+    background-color: rgb(104, 101, 101);
+    color: white;
+    padding: 10px 0px 0px 10px;
+    text-decoration: none;
+    width: 250px;
+    height: 30px;
+}
+
+.ui-menu-item:hover {
+    background-color: rgb(238, 236, 231);
+    color: black;
+}
+
+.ui-menu-item:active {
+    background-color: rgb(255, 255, 255);
+}
+
+span {
+    display: none;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#busca {
+    width: 250px;
+    height: 30px;
+    font-family: arial;
+    font-size: 1cm;
+}
